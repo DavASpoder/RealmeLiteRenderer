@@ -15,7 +15,7 @@ jobs:
 
       - name: Extract project
         run: |
-          unzip RendererPlugin-Renderer.zip -d project
+          unzip RendererPlugin-Renderer2.zip -d project
 
       - name: Setup Java
         uses: actions/setup-java@v4
